@@ -1,6 +1,6 @@
 [x] Add dependencies
-[ ] Create index file
-[ ] Create knex file
+[x] Create index file
+[x] Create knex file
 [ ] Create database configuration file
 [ ] Add migrations for username and password
 [ ] Add users API

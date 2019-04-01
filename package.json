@@ -1,0 +1,19 @@
+{
+  "name": "webauth-01",
+  "version": "1.0.0",
+  "description": "Project for learning web auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adventurini/webauth-i-challenge.git"
+  },
+  "author": "Anthony Venturini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adventurini/webauth-i-challenge/issues"
+  },
+  "homepage": "https://github.com/adventurini/webauth-i-challenge#readme"
+}

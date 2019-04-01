@@ -1,4 +1,4 @@
-[ ] Add dependencies
+[x] Add dependencies
 [ ] Create index file
 [ ] Create knex file
 [ ] Create database configuration file

@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/adventurini/webauth-i-challenge/issues"
   },
-  "homepage": "https://github.com/adventurini/webauth-i-challenge#readme"
+  "homepage": "https://github.com/adventurini/webauth-i-challenge#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.5",
+    "express": "^4.16.4",
+    "helmet": "^3.16.0",
+    "knex": "^0.16.3",
+    "knex-cleaner": "^1.1.4",
+    "sqlite3": "^4.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
 }

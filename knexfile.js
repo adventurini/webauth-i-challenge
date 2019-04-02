@@ -7,8 +7,7 @@ module.exports = {
     useNullAsDefault: true,
     connection: {
       filename: './db/dev.sqlite3'
-    }
-  },
+    },
 
   migrations: {
     directory: "./db/migrations"
@@ -21,5 +20,5 @@ module.exports = {
       conn.run("PRAGMA foreign_keys = ON", done);
     }
   }
-
+  }
 };
